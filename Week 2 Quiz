@@ -1,0 +1,61 @@
+1. What is the difference between an algorithm and a program?
+    - Programs implement algorithms
+2. What is an abstract data type used for?
+    - Abstract away recurring and complicated logic
+    - To define what data should be stored and operations we may need
+    - Helps conceptualize different components
+    - Modularize the logic
+3. 
+    - Correctness: For all possible inputs, does your algorithm map to a correct output?
+    - Optimality: For a given input, does your algorithm give you the best output?
+    - Stabliity: Does your algorithm produce the same answer, every time?
+    - Efficiency: How much resources does your algorithm need?
+
+4. What computational resource would be useful to keep track of to measure time efficiency?
+
+    - Running time
+
+5. Why do we need a model of computation?
+    - To precisely calculate the resources used by an algorithm.
+    - Define important operations that may be used by algorithms and their associated cost.
+
+    6. How many steps does the following program take given we are using a RAM model?
+
+    ret = 0
+
+    for i in range(10):
+
+        ret = (i + i) * i
+
+    print(ret)
+    - 41
+    
+7. What is the order of growth for the following algorithm?
+
+If an algorithm performs 5 primitive operation on all possible combinations of the input.
+
+- n!
+
+8. What is the asymptotic growth in the worst case for the following growth function?
+F(x) = 5xlog(x) + 2x + 5log(x) + 2n + 10
+- O(xlog(x))
+
+9. We find an algorithm A to be asymptotically bounded in the best case by algorithm B, we can assume the asymptotic worst case of algorithm B is bounded by algorithm A.
+
+- True
+
+
+10. 
+- Given an algorithm has five operations (A,B,C,D,E).
+
+A, B, C, and D are constant time, and is performed on every element of the input.
+
+E is cubic time, but is performed for only one element of the input.
+
+Perform an amortized analysis of this algorithm.
+
+- O(n^2)
+
+
+
+    

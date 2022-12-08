@@ -1,0 +1,150 @@
+{
+    "tests": [
+        {
+            "name": "04 Dijkstras: See graph1.png",
+            "score": 0.0,
+            "max_score": 2,
+            "output": "Test Failed: 'NoneType' object is not subscriptable\n"
+        },
+        {
+            "name": "04 Dijkstras: runDijkstras Test",
+            "score": 0.0,
+            "max_score": 2,
+            "output": "Test Failed: list indices must be integers or slices, not str\n"
+        },
+        {
+            "name": "test1 (test_extracredit.TestExtraCredit)",
+            "score": 2,
+            "max_score": 2
+        },
+        {
+            "name": "02 Graph: Checking empty graphs.",
+            "score": 0.1,
+            "max_score": 0.1
+        },
+        {
+            "name": "02 Graph: BFT 1",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 Graph: BFT 2",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 Graph: isDirected 1",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Graph: isDirected 2",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Graph: isCyclic (Undirected Graph)",
+            "score": 0.5,
+            "max_score": 0.5,
+            "output": "[1, 2, 3]\n[1, 2]\n[1]\n[]\n[1, 2, 3]\n"
+        },
+        {
+            "name": "02 Graph: isCyclic (Directed Graph)",
+            "score": 0.0,
+            "max_score": 0.5,
+            "output": "Test Failed: False is not true\n"
+        },
+        {
+            "name": "02 Graph: isConnected (Undirected Graph)",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Graph: isTree",
+            "score": 0.5,
+            "max_score": 0.5,
+            "output": "[1, 2, 3]\n[1, 2]\n[1]\n[]\n[1, 2, 3, 4]\n[1, 2, 3]\n[1, 2]\n[1]\n[]\n[1, 2, 3, 4]\n"
+        },
+        {
+            "name": "02 Graph: Adding new vertices and checking all vertices",
+            "score": 0.3,
+            "max_score": 0.3
+        },
+        {
+            "name": "02 Graph: Removing vertices",
+            "score": 0.3,
+            "max_score": 0.3
+        },
+        {
+            "name": "02 Graph: Adding weighted directed edges",
+            "score": 0.3,
+            "max_score": 0.3
+        },
+        {
+            "name": "02 Graph: Removing weighted directed edges",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "02 Graph: Removing connected vertex",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Graph: Neighbors of vertices",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "02 Graph: DFT 1",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 Graph: DFT 2",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "03 Prims: See graph1.png",
+            "score": 2,
+            "max_score": 2,
+            "output": "[['a', 'd', 5], ['d', 'f', 6], ['a', 'b', 7], ['b', 'e', 7], ['e', 'c', 5], ['e', 'g', 9]] mst\n['a', 'd', 'f', 'b', 'e', 'c', 'g'] mstSet\n"
+        },
+        {
+            "name": "03 Prims: runPrims Test",
+            "score": 2,
+            "max_score": 2,
+            "output": "[['Wisconsin, USA', 'West Virginia, USA', 10], ['West Virginia, USA', 'New York, USA', 6], ['New York, USA', 'Vermont, USA', 2], ['Vermont, USA', 'New Hampshire, USA', 1], ['Vermont, USA', 'Rhode Island, US', 2], ['Wisconsin, USA', 'South Dakota, US', 10], ['South Dakota, US', 'Nebraska, USA', 3], ['Nebraska, USA', 'Texas, USA', 10], ['South Dakota, US', 'Oregon, US', 20]] mst\n['Wisconsin, USA', 'West Virginia, USA', 'New York, USA', 'Vermont, USA', 'New Hampshire, USA', 'Rhode Island, US', 'South Dakota, US', 'Nebraska, USA', 'Texas, USA', 'Oregon, US'] mstSet\n"
+        },
+        {
+            "name": "01 Recursion: n = m = 0",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Recursion: n > 0, m = 0",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Recursion: m = 1",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Recursion: n = 8, m <= 8",
+            "score": 1.75,
+            "max_score": 1.75
+        },
+        {
+            "name": "01 Recursion: n <= 8, m = 8",
+            "score": 1.75,
+            "max_score": 1.75
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.02",
+    "score": 19.5
+}

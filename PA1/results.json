@@ -1,0 +1,196 @@
+{
+    "tests": [
+        {
+            "name": "04 ADTs: Push and peek with dynamic array.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "04 ADTs: Push and peek with linked list.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "04 ADTs: Enqueue and peek with dynamic array.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "04 ADTs: Enqueue and peek with dynamic array.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "04 ADTs: Push and pop with dynamic array.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "04 ADTs: Push and peek with linked list.",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "04 ADTs: Enqueue and peek with dynamic array.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "04 ADTs: Enqueue and peek with dynamic array.",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 Dynamic Array: Checking length and size of empty DynamicArray.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "02 Dynamic Array: Checking whether equals is working.",
+            "score": 0.0,
+            "max_score": 0.5,
+            "output": "[0, None, None, None, None, None, None, None, None, None]\n[0, None, None, None, None, None, None, None, None, None]\nTest Failed: <arrays.DynamicArray object at 0x00000114FA3341F0> != <arrays.DynamicArray object at 0x00000114FA334220>\n"
+        },
+        {
+            "name": "02 Dynamic Array: Enforcing set property.",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 Dynamic Array: Shifting property when adding new values.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "02 Dynamic Array: Shifting property when removing values.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "02 Dynamic Array: Resizing property when adding new values.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "02 Dynamic Array: Resizing property when appending new values.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Dynamic Array: Resizing property when extending another array. Also checks extend is working properly.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Dynamic Array: Resizing property when deleting value",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Dynamic Array: Resizing property when removing value",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 Dynamic Array: Removing values and checking argwhere.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "test1 (test_extracredit.TestLinkedList)",
+            "score": 0.0,
+            "max_score": 2
+        },
+        {
+            "name": "03 Linked List: Checking length and size of LinkedList.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "03 Linked List: Checking circular property.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "03 Linked List: Checking circular doubly property.",
+            "score": 0.0,
+            "max_score": 1,
+            "output": "Test Failed: 'NoneType' object has no attribute 'data'\n"
+        },
+        {
+            "name": "03 Linked List: Shifting property when adding new values.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "03 Linked List: Shifting property when removing values.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "03 Linked List: Doubly property.",
+            "score": 0.25,
+            "max_score": 0.25
+        },
+        {
+            "name": "03 Linked List: Basic traversing.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "03 Linked List: Extend with static array.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "03 Linked List: Iterable check",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "03 Linked List: Removing values and checking argwhere.",
+            "score": 0.0,
+            "max_score": 0.5,
+            "output": "Test Failed: [3,4] != [2]\n"
+        },
+        {
+            "name": "03 Linked List: Checking whether equals is working.",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Python Review: Empty array should always return an empty dict",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Python Review: n = 0 should always return an empty dict",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Python Review: Test with invalid inputs",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Python Review: Check whether sum is correct",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Python Review: Check whether indexing is correct",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "01 Python Review: Two more test cases",
+            "score": 0.5,
+            "max_score": 0.5
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.01",
+    "score": 16.0
+}

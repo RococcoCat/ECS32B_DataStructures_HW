@@ -1,0 +1,9 @@
+Checklist:
+
+DynamicArray
+1. eq
+
+LinkedList
+1. circular doubly
+2. removing, argwhere
+

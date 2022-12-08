@@ -1,0 +1,157 @@
+{
+    "tests": [
+        {
+            "name": "02 BST: Adding 2 nodes and tolist",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 BST: Search",
+            "score": 0.5,
+            "max_score": 0.5
+        },
+        {
+            "name": "02 BST: Search (sort = True)",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 BST: Removing 1 node after adding 2 nodes and tolist",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "02 BST: Check height",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "02 BST: Check balancefactor",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "02 BST: Construct BST with initial list and tolist",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "02 BST: Check height (sort = True)",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 BST: Check balancefactor (sort = True)",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 BST: Check balancefactor with removing (sort = True)",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "02 BST: Check balancefactor with adding (sort = True)",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "test1 (test_extracredit.TestExtraCredit)",
+            "score": 2,
+            "max_score": 2
+        },
+        {
+            "name": "01 Hash Tables: Hash code function",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "01 Hash Tables: Adding in values into hash table",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "01 Hash Tables: Adding in values into hash table with collisions",
+            "score": 0.0,
+            "max_score": 1.75,
+            "output": "Test Failed: 1 != 2\n"
+        },
+        {
+            "name": "01 Hash Tables: Getting values from hash table",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "01 Hash Tables: Getting values from hash table with collisions",
+            "score": 0.0,
+            "max_score": 1.75,
+            "output": "Test Failed: 4 != 0\n"
+        },
+        {
+            "name": "01 Hash Tables: Deleting values from hash table",
+            "score": 0.0,
+            "max_score": 1,
+            "output": "Test Failed: 2 != 0\n"
+        },
+        {
+            "name": "01 Hash Tables: Deleting values from hash table with collisions",
+            "score": 0.0,
+            "max_score": 1.75,
+            "output": "Test Failed: 4 != 0\n"
+        },
+        {
+            "name": "04 Heaps: Heapify 1 (min)",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "04 Heaps: Heapify 1 (max)",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "04 Heaps: Heapify 2 (min)",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "04 Heaps: Heapify 2 (max)",
+            "score": 0.75,
+            "max_score": 0.75
+        },
+        {
+            "name": "03 Sort and Search: Correct format (also see setUp)",
+            "score": 3,
+            "max_score": 3,
+            "output": "First test case (sort and search): Completed\n"
+        },
+        {
+            "name": "03 Sort and Search: Checking linear search",
+            "score": 1.5,
+            "max_score": 1.5,
+            "output": "Second test case (sort and search): Completed\n"
+        },
+        {
+            "name": "03 Sort and Search: Checking bubble sort",
+            "score": 1.5,
+            "max_score": 1.5,
+            "output": "Third test case (sort and search): Completed\n"
+        },
+        {
+            "name": "03 Sort and Search: Checking other sort",
+            "score": 1.5,
+            "max_score": 1.5,
+            "output": "Fourth test case (sort and search): Completed\n"
+        },
+        {
+            "name": "03 Sort and Search: Checking other search",
+            "score": 0.0,
+            "max_score": 1.5,
+            "output": "Test Failed: '55.94' != '35.08'\n- 55.94\n+ 35.08\n\n"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "167.63",
+    "score": 24.25
+}

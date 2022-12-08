@@ -1,0 +1,18 @@
+3. Adjacency lists waste more space than adjacency matrices.
+
+- False
+
+4. It cost constant time to add a new vertex when using an adjacency lists.
+- True
+
+5. To check whether two vertices are adjacent, both representations provide a constant time complexity.
+- False
+- ???
+
+6. It should cost the same amount of computational resources to add a vertex as it does to remove a vertex.
+- False
+- ???
+
+7. A tree is always a graph but a graph is a tree if and only if it is connected and acyclic.
+- True
+
